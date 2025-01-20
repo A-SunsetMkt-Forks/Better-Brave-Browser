@@ -32,35 +32,12 @@ Flags list (Disable them):
 
 ![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
 
-
+Updated 1/20/25
 - #brave-cosmetic-filtering-sync-load
-- #brave-super-referral
-- #brave-rewards-verbose-logging
-- #brave-rewards-allow-unsupported-wallet-providers
-- #brave-rewards-allow-self-custody-providers
-- #brave-rewards-new-rewards-ui
-- #brave-rewards-animated-background
-- #brave-sync-v2
-- #native-brave-wallet
-- #brave-wallet-zcash
-- #brave-wallet-bitcoin
-- #brave-wallet-enable-ankr-balances
-- #brave-wallet-enable-transaction-simulations
-- #brave-news-peek
-- #brave-news-feed-update
-- #ethereum_remote-client_new-installs
-- #brave-rewards-gemini
 - #brave-ai-chat
-- #brave-ai-chat-history
 - #brave-ai-chat-context-menu-rewrite-in-place
-- #brave-ai-rewriter
-- #web-app-sync-generated-icon-background-fix
-- #web-app-sync-generated-icon-retroactive-fix
-- #web-app-sync-generated-icon-update-fix
-- #use-sync-sandbox
-- #enable-autofill-credit-card-upload
-- #enable-bound-session-credentials
-- #enable-bound-session-credentials-software-keys-for-manual-testing
+- #brave-ai-chat-open-leo-from-brave-search
+- #native-brave-wallet
 
 ## uBlock filters:
 
