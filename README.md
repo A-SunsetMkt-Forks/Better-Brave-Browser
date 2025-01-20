@@ -37,17 +37,22 @@ Flags list (Disable them):
 ![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
 
 Updated 1/20/25
-- #brave-cosmetic-filtering-sync-load
+- #brave-super-referral
+- #brave-rewards-allow-self-custody-providers
+- #brave-ads-should-always-run-brave-ads-service
+- #brave-ads-should-support-search-result-ads
+- #brave-ads-allowed-to-fallback-to-custom-push-notification-ads
+- #brave-wallet-bitcoin
+- #brave-wallet-zcash
+- #brave-rewards-gemini
 - #brave-ai-chat
 - #brave-ai-chat-context-menu-rewrite-in-place
+- #brave-cosmetic-filtering-sync-load
 - #brave-ai-chat-open-leo-from-brave-search
 - #native-brave-wallet
 - #brave-news-peek
 - #brave-news-feed-update
-- #brave-ai-chat-open-leo-from-brave-search
-- #brave-rewards-allow-self-custody-providers
 - #brave-rewards-platform-creator-detection
-- #brave-rewards-gemini
 
 ## uBlock filters:
 
