@@ -14,7 +14,11 @@ Show old homepage (chromes): brave://new-tab-page/
 
 ![image](https://github.com/user-attachments/assets/454036d3-a101-4d9a-aac1-bf9b917aa1af)
 
-Copy the following settings.
+
+![image](https://github.com/user-attachments/assets/ce502c25-43a7-4969-8d7e-7baf8c3bd6b3)
+
+Update: Please make sure new tab page shows is set to home page.
+
 
 ## Data collection (Under Privacy and settings)
 
@@ -38,6 +42,12 @@ Updated 1/20/25
 - #brave-ai-chat-context-menu-rewrite-in-place
 - #brave-ai-chat-open-leo-from-brave-search
 - #native-brave-wallet
+- #brave-news-peek
+- #brave-news-feed-update
+- #brave-ai-chat-open-leo-from-brave-search
+- #brave-rewards-allow-self-custody-providers
+- #brave-rewards-platform-creator-detection
+- #brave-rewards-gemini
 
 ## uBlock filters:
 
