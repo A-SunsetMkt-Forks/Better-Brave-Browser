@@ -24,6 +24,32 @@ Update: Please make sure new tab page shows is set to home page.
 
 ![image](https://github.com/user-attachments/assets/05f94aed-d9ae-4fef-b589-bd222f6103c0)
 
+## Windows registry
+
+If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
+
+If you're not using Brave on Windows, please skip this section and go to [Brave Flags](#brave-flags).
+
+### How to create the registry file
+
+1. Close Brave Browser if opened
+
+2. Create a txt file wherever you want. For example, you create a file in your Desktop called `brave_debloater.txt`
+
+3. Open the file and paste the content below
+
+```reg
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]
+"BraveRewardsDisabled"=dword:00000001
+"BraveWalletDisabled"=dword:00000001
+"BraveVPNDisabled"=dword:00000001
+"BraveAIChatEnabled"=dword:00000000
+```
+
+4. Save the file and change its extension to `.reg`. We named the file `brave_debloater.txt` so we will change it to `brave_debloater.reg`
+
+5. Execute and click yes when asked.
 
 ## Brave Flags
 ### Type this in the url bar: brave://flags/
