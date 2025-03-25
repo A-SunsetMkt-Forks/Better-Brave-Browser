@@ -32,11 +32,9 @@ If you're not using Brave on Windows, please skip this section and go to [Brave 
 
 ### How to create the registry file
 
-1. Close Brave Browser if opened
+1. Create a txt file wherever you want. For example, create a file in your Desktop called `brave_debloater.txt`
 
-2. Create a txt file wherever you want. For example, you create a file in your Desktop called `brave_debloater.txt`
-
-3. Open the file and paste the content below
+2. Open the file and paste the content below
 
 ```reg
 Windows Registry Editor Version 5.00
@@ -47,7 +45,9 @@ Windows Registry Editor Version 5.00
 "BraveAIChatEnabled"=dword:00000000
 ```
 
-4. Save the file and change its extension to `.reg`. We named the file `brave_debloater.txt` so we will change it to `brave_debloater.reg`
+3. Save the file and change its extension to `.reg`. We named the file `brave_debloater.txt` so we will change it to `brave_debloater.reg`
+
+4. Close Brave Browser if opened
 
 5. Execute and click yes when asked.
 
