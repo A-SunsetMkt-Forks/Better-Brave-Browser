@@ -53,6 +53,8 @@ Windows Registry Editor Version 5.00
 
 5. Execute and click yes when asked
 
+Now, if you open Brave, all bloatware will be gone.
+
 ## Brave Flags
 ### Type this in the url bar: brave://flags/
 
