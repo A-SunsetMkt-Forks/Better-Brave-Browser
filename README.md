@@ -28,9 +28,11 @@ Update: Please make sure new tab page shows is set to home page.
 
 If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
 
-If you're not using Brave on Windows, please skip this section and go to [Brave Flags](#brave-flags).
+If you're not using Brave on Windows, please skip this section and go to [Brave Flags](#brave-flags) instead.
 
-### How to create the registry file
+**Note:** If you apply this method, you should skip the [Brave Flags](#brave-flags) section, as we will completely disable all Brave bloatware at once.
+
+### How to create and apply the registry file
 
 1. Create a txt file wherever you want. For example, create a file in your Desktop called `brave_debloater.txt`
 
@@ -49,7 +51,7 @@ Windows Registry Editor Version 5.00
 
 4. Close Brave Browser if opened
 
-5. Execute and click yes when asked.
+5. Execute and click yes when asked
 
 ## Brave Flags
 ### Type this in the url bar: brave://flags/
