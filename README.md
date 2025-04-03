@@ -24,6 +24,36 @@ Update: Please make sure new tab page shows is set to home page.
 
 ![image](https://github.com/user-attachments/assets/05f94aed-d9ae-4fef-b589-bd222f6103c0)
 
+## Windows registry
+
+If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
+
+If you're not using Brave on Windows, please skip this section and go to [Brave Flags](#brave-flags) instead.
+
+**Note:** If you apply this method, you should skip the [Brave Flags](#brave-flags) section, as we will completely disable all Brave bloatware at once.
+
+### How to create and apply the registry file
+
+1. Create a txt file wherever you want. For example, create a file in your Desktop called `brave_debloater.txt`
+
+2. Open the file and paste the content below
+
+```reg
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]
+"BraveRewardsDisabled"=dword:00000001
+"BraveWalletDisabled"=dword:00000001
+"BraveVPNDisabled"=dword:00000001
+"BraveAIChatEnabled"=dword:00000000
+```
+
+3. Save the file and change its extension to `.reg`. We named the file `brave_debloater.txt` so we will change it to `brave_debloater.reg`
+
+4. Close Brave Browser if opened
+
+5. Execute and click yes when asked
+
+Now, if you open Brave, all bloatware will be gone.
 
 ## Brave Flags
 ### Type this in the url bar: brave://flags/
