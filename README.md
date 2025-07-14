@@ -92,9 +92,6 @@ Updated 7/14/25
 
 ## uBlock filters:
 
-![image](https://github.com/user-attachments/assets/ad43d99c-c330-47e1-8593-54b6de5a2d29)  
-![image](https://github.com/user-attachments/assets/3810ed7f-811b-43c7-927d-d0503af18155)
-
 ---
 
 > **Note:** As of **7/14/2025**, this section is no longer necessary. Brave's development team continues to ignore custom filter updates, these likely won't work as expected.
@@ -103,6 +100,10 @@ Updated 7/14/25
 <summary><strong>⚠️ Deprecated Filters (Click to expand)</strong></summary>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/ad43d99c-c330-47e1-8593-54b6de5a2d29)  
+![image](https://github.com/user-attachments/assets/3810ed7f-811b-43c7-927d-d0503af18155)
+
 
 ~~### Links (They are hyper linked — right-click to copy)~~  
 ~~- Ads: [uBlock Ads](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters.txt)~~  
