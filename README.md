@@ -4,8 +4,7 @@
 
 # Synopsis
 
-
-### Tired of having crypto in your browser? Tired of preinstalled ads in a browser? Tired of the AI features and prefer a 'legacy' browsing experience? Look no further—remove all the garbage: crypto scams, ads, AI chatbots from the Brave browser.
+### Tired of having crypto in your browser? Tired of preinstalled ads in a browser? Tired of the annoying features nobody asked for? Look no further, remove all the garbage crypto scams, ads and AI chatbots from the Brave browser.
 
 
 ## Appearance Settings
@@ -66,58 +65,65 @@ Flags list (Disable them):
 
 ![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
 
-Updated 1/20/25
+Updated 7/14/25
 - #brave-super-referral
-- #brave-rewards-allow-self-custody-providers
-- #brave-ads-should-always-run-brave-ads-service
-- #brave-ads-should-support-search-result-ads
-- #brave-ads-allowed-to-fallback-to-custom-push-notification-ads
-- #brave-wallet-bitcoin
-- #brave-wallet-zcash
-- #brave-rewards-gemini
-- #brave-ai-chat
-- #brave-ai-chat-context-menu-rewrite-in-place
-- #brave-cosmetic-filtering-sync-load
-- #brave-ai-chat-open-leo-from-brave-search
+- #brave-rewards-new-rewards-ui
+- #brave-rewards-platform-creator-detection
 - #native-brave-wallet
+- #brave-wallet-zcash
+- #brave-wallet-bitcoin
+- #brave-wallet-cardano
 - #brave-news-peek
 - #brave-news-feed-update
-- #brave-rewards-platform-creator-detection
+- #brave-rewards-gemini
+- #brave-ai-chat
+- #brave-ai-first
+- #brave-ai-chat-history
+- #brave-ai-host-specific-distillation
+- #brave-ai-chat-context-menu-rewrite-in-place
+- #brave-ai-chat-page-content-refine
+- #brave-ai-chat-allow-private-ips
+- #brave-ai-chat-open-leo-from-brave-search
+- #brave-ai-chat-web-content-association-default
+- #brave-ai-rewriter
+- #brave-omnibox-tab-switch-by-default
+- #brave-history-more-search-results
+- #brave-ntp-search-widget
 
 ## uBlock filters:
 
-### Copy all the lists and add them to custom filtering lists.
-### Note: Brave does some wierd whitelisting thing so some ads might not get blocked even though it's in a block list.
-
-![image](https://github.com/user-attachments/assets/ad43d99c-c330-47e1-8593-54b6de5a2d29)
-
-
+![image](https://github.com/user-attachments/assets/ad43d99c-c330-47e1-8593-54b6de5a2d29)  
 ![image](https://github.com/user-attachments/assets/3810ed7f-811b-43c7-927d-d0503af18155)
 
-## Links (They are hyper linked copy them by right clicking)
-- Ads: [uBlock Ads](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters.txt)  
-- Privacy: [uBlock Privacy](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt)  
-- Quick fixes: [uBlock Quick Fixes](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt)  
-- Unbreak: [uBlock Unbreak](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt)  
-- Badware: [uBlock Badware](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/badware.txt)  
+---
 
-### Adguard Filters:
+> **Note:** As of **7/14/2025**, this section is no longer necessary. Brave's development team continues to ignore custom filter updates, these likely won't work as expected.
 
-- Adguard: [Adguard Base](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)  
-- Adguard Tracking Protection: [Adguard Tracking](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)  
-- Adguard Annoyance: [Adguard Annoyances](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)  
+<details>
+<summary><strong>⚠️ Deprecated Filters (Click to expand)</strong></summary>
 
-### Easylist:
+<br>
 
-- Easylist: [Easylist](https://easylist.to/easylist/easylist.txt)  
-- Easylist Privacy: [Easylist Privacy](https://easylist.to/easylist/easyprivacy.txt)  
-- Easylist Cookies: [Easylist Cookies](https://secure.fanboy.co.nz/fanboy-cookiemonster.txt)  
+~~### Links (They are hyper linked — right-click to copy)~~  
+~~- Ads: [uBlock Ads](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters.txt)~~  
+~~- Privacy: [uBlock Privacy](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt)~~  
+~~- Quick fixes: [uBlock Quick Fixes](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt)~~  
+~~- Unbreak: [uBlock Unbreak](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt)~~  
+~~- Badware: [uBlock Badware](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/badware.txt)~~  
 
-### Malware / Phising:
+~~### Adguard Filters~~  
+~~- Adguard: [Adguard Base](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)~~  
+~~- Adguard Tracking Protection: [Adguard Tracking](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)~~  
+~~- Adguard Annoyance: [Adguard Annoyances](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)~~  
 
-- [Malware Filter](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt)  
-- [Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt)
+~~### Easylist~~  
+~~- Easylist: [Easylist](https://easylist.to/easylist/easylist.txt)~~  
+~~- Easylist Privacy: [Easylist Privacy](https://easylist.to/easylist/easyprivacy.txt)~~  
+~~- Easylist Cookies: [Easylist Cookies](https://secure.fanboy.co.nz/fanboy-cookiemonster.txt)~~  
 
+~~### Malware / Phishing~~  
+~~- [Malware Filter](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt)~~  
+~~- [Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt)~~
 
-
+</details>
 
